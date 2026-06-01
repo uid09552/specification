@@ -83,7 +83,7 @@ classes:
       name:
         description: >-
           The application's official name. 
-          This name is for display purposes only and can container whitespace and special characters.
+          This name is for display purposes only and can contain whitespace and special characters.
         rank: 20
         range: string
         required: true
